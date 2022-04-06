@@ -15,3 +15,10 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) eğitiminde oluşturduğum ilk
 Linux için:
 
  <code>cd kodluyoruz\ilkrepo</code>
+
+ ## Contributing 
+
+ Pull requestler kabul edilir. Büyük değişiklikler için lütfen önce neyi değiştirmek istedğinizi tartışmak için bir konu açınız.
+
+ ## License
+ MIT
